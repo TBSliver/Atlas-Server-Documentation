@@ -29,57 +29,57 @@ cheat gfi spray 1 0 0
 If you need individual colours, this is easier, however if you need multiple colours it will be easier to use the colour
 box above.
 
-| Colour            | Cheat Code                         |
-|-------------------|------------------------------------|
-| Magenta           | `cheat gfi actually 1 0 0`         |
-| Alizarin Red      | `cheat gfi alizarin 1 0 0`         |
-| Aubergine Brown   | `cheat gfi aubergine 1 0 0`        |
-| Black             | `cheat gfi black 1 0 0`            |
-| cheat Blackberry  | `cheat gfi blackberry 1 0 0`       |
-| Blackcurrant      | `cheat gfi blackcurrant 1 0 0`     |
-| Blue              | `cheat gfi blue 1 0 0`             |
-| Blue Whale        | `cheat gfi bluewhale 1 0 0`        |
-| Brick             | `cheat gfi brick 1 0 0`            |
-| Bright Red        | `cheat gfi brightred 1 0 0`        |
-| Brown             | `cheat gfi brown 1 0 0`            |
-| Cantaloupe        | `cheat gfi cantaloupe 1 0 0`       |
-| Cerulean          | `cheat gfi cerulean 1 0 0`         |
-| Chateau Green     | `cheat gfi chateaugreen 1 0 0`     |
-| Conifer Green     | `cheat gfi confiergreen 1 0 0`     |
-| Cyan              | `cheat gfi cyan 1 0 0`             |
-| Dark Pink         | `cheat gfi darkpink 1 0 0`         |
-| Forest            | `cheat gfi forest 1 0 0`           |
-| Gold              | `cheat gfi gold 1 0 0`             |
-| Green             | `cheat gfi green 1 0 0`            |
-| Indigo            | `cheat gfi indigo 1 0 0`           |
-| Light Sea Green   | `cheat gfi lightseagreen 1 0 0`    |
-| Madang Green      | `cheat gfi madanggreen 1 0 0`      |
-| Purple            | `cheat gfi magenta 1 0 0`          |
-| Mango             | `cheat gfi mango 1 0 0`            |
-| Mineral Gray      | `cheat gfi mineralgray 1 0 0`      |
-| Mud               | `cheat gfi mud 1 0 0`              |
-| Napa Brown        | `cheat gfi napabrown 1 0 0`        |
-| Navy              | `cheat gfi navy 1 0 0`             |
-| Olive             | `cheat gfi olive 1 0 0`            |
-| Orange            | `cheat gfi orange 1 0 0`           |
-| Orange Peel       | `cheat gfi orangepeel 1 0 0`       |
-| Orient Blue       | `cheat gfi orientblue 1 0 0`       |
-| Paco Brown        | `cheat gfi pacobrown 1 0 0`        |
-| Parchment         | `cheat gfi parchment 1 0 0`        |
-| Pink              | `cheat gfi pink 1 0 0`             |
-| Pohutakawa Red    | `cheat gfi pohutukawared 1 0 0`    |
-| Purple            | `cheat gfi purple 1 0 0`           |
-| Red               | `cheat gfi red 1 0 0`              |
-| Royalty           | `cheat gfi royalty 1 0 0`          |
-| Selective Yellow  | `cheat gfi selectiveyellow 1 0 0`  |
-| Shalimar Yellow   | `cheat gfi shalimar 1 0 0`         |
-| Silver            | `cheat gfi silver 1 0 0`           |
-| Sky               | `cheat gfi sky 1 0 0`              |
-| Slate             | `cheat gfi slate 1 0 0`            |
-| Snow White        | `cheat gfi snowwhite 1 0 0`        |
-| Swamp Purple      | `cheat gfi swampypurple 1 0 0`     |
-| Tan               | `cheat gfi tan 1 0 0`              |
-| Tangerine         | `cheat gfi tangerine 1 0 0`        |
-| Watercourse Green | `cheat gfi watercoursegreen 1 0 0` |
-| White             | `cheat gfi white 1 0 0`            |
-| Yellow            | `cheat gfi yellow 1 0 0`           |
+| Colour            | Cheat Code                                       |
+|-------------------|--------------------------------------------------|
+| Magenta           | `cheat gfi PrimalItemDye_ActuallyMagenta 1 0 0`  |
+| Alizarin Red      | `cheat gfi PrimalItemDye_AlizarinRed 1 0 0`      |
+| Aubergine Brown   | `cheat gfi PrimalItemDye_AubergineBrown 1 0 0`   |
+| Black             | `cheat gfi PrimalItemDye_Black 1 0 0`            |
+| cheat Blackberry  | `cheat gfi PrimalItemDye_Blackberry 1 0 0`       |
+| Blackcurrant      | `cheat gfi PrimalItemDye_Blackcurrant 1 0 0`     |
+| Blue              | `cheat gfi PrimalItemDye_Blue 1 0 0`             |
+| Blue Whale        | `cheat gfi PrimalItemDye_BlueWhale 1 0 0`        |
+| Brick             | `cheat gfi PrimalItemDye_Brick 1 0 0`            |
+| Bright Red        | `cheat gfi PrimalItemDye_BrightRed 1 0 0`        |
+| Brown             | `cheat gfi PrimalItemDye_Brown 1 0 0`            |
+| Cantaloupe        | `cheat gfi PrimalItemDye_Cantaloupe 1 0 0`       |
+| Cerulean          | `cheat gfi PrimalItemDye_Cerulean 1 0 0`         |
+| Chateau Green     | `cheat gfi PrimalItemDye_ChateauGreen 1 0 0`     |
+| Conifer Green     | `cheat gfi PrimalItemDye_ConfierGreen 1 0 0`     |
+| Cyan              | `cheat gfi PrimalItemDye_Cyan 1 0 0`             |
+| Dark Pink         | `cheat gfi PrimalItemDye_DarkPink 1 0 0`         |
+| Forest            | `cheat gfi PrimalItemDye_Forest 1 0 0`           |
+| Gold              | `cheat gfi PrimalItemDye_Gold 1 0 0`             |
+| Green             | `cheat gfi PrimalItemDye_Green 1 0 0`            |
+| Indigo            | `cheat gfi PrimalItemDye_Indigo 1 0 0`           |
+| Light Sea Green   | `cheat gfi PrimalItemDye_LightSeaGreen 1 0 0`    |
+| Madang Green      | `cheat gfi PrimalItemDye_MadangGreen 1 0 0`      |
+| Purple            | `cheat gfi PrimalItemDye_Magenta 1 0 0`          |
+| Mango             | `cheat gfi PrimalItemDye_Mango 1 0 0`            |
+| Mineral Gray      | `cheat gfi PrimalItemDye_MineralGray 1 0 0`      |
+| Mud               | `cheat gfi PrimalItemDye_Mud 1 0 0`              |
+| Napa Brown        | `cheat gfi PrimalItemDye_NapaBrown 1 0 0`        |
+| Navy              | `cheat gfi PrimalItemDye_Navy 1 0 0`             |
+| Olive             | `cheat gfi PrimalItemDye_Olive 1 0 0`            |
+| Orange            | `cheat gfi PrimalItemDye_Orange 1 0 0`           |
+| Orange Peel       | `cheat gfi PrimalItemDye_OrangePeel 1 0 0`       |
+| Orient Blue       | `cheat gfi PrimalItemDye_OrientBlue 1 0 0`       |
+| Paco Brown        | `cheat gfi PrimalItemDye_PacoBrown 1 0 0`        |
+| Parchment         | `cheat gfi PrimalItemDye_Parchment 1 0 0`        |
+| Pink              | `cheat gfi PrimalItemDye_Pink 1 0 0`             |
+| Pohutakawa Red    | `cheat gfi PrimalItemDye_PohutukawaRed 1 0 0`    |
+| Purple            | `cheat gfi PrimalItemDye_Purple 1 0 0`           |
+| Red               | `cheat gfi PrimalItemDye_Red 1 0 0`              |
+| Royalty           | `cheat gfi PrimalItemDye_Royalty 1 0 0`          |
+| Selective Yellow  | `cheat gfi PrimalItemDye_SelectiveYellow 1 0 0`  |
+| Shalimar Yellow   | `cheat gfi PrimalItemDye_Shalimar 1 0 0`         |
+| Silver            | `cheat gfi PrimalItemDye_Silver 1 0 0`           |
+| Sky               | `cheat gfi PrimalItemDye_Sky 1 0 0`              |
+| Slate             | `cheat gfi PrimalItemDye_Slate 1 0 0`            |
+| Snow White        | `cheat gfi PrimalItemDye_SnowWhite 1 0 0`        |
+| Swamp Purple      | `cheat gfi PrimalItemDye_SwampyPurple 1 0 0`     |
+| Tan               | `cheat gfi PrimalItemDye_Tan 1 0 0`              |
+| Tangerine         | `cheat gfi PrimalItemDye_Tangerine 1 0 0`        |
+| Watercourse Green | `cheat gfi PrimalItemDye_WatercourseGreen 1 0 0` |
+| White             | `cheat gfi PrimalItemDye_White 1 0 0`            |
+| Yellow            | `cheat gfi PrimalItemDye_Yellow 1 0 0`           |
