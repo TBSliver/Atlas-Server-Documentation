@@ -9,5 +9,11 @@ new bucket, or something with bucket in the name, it may spawn that.
 The command for spawning an item is as follows:
 
 ```
+cheat gfi <Item Spawn Code> <Quantity> <Quality> <Is Blueprint>
+```
 
+For example, the following command will give 1 basic bucket
+
+```
+cheat gfi PrimalItem_WeaponBucket 1 0 0
 ```
