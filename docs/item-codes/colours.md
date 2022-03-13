@@ -6,14 +6,14 @@ The colour Cheat box contains 100 of each colour, as well as a spray painter and
 shaped box!
 
 ```
-cheat gfi colorbox 1 0 0
+cheat gfi PrimalItemStructure_ColorBox 1 0 0
 ```
 
 The paintbrush allows for painting various zones specifically. Hit a building item with it to see the painting screen,
 then double click a colour to change the paint.
 
 ```
-cheat gfi brush 1 0 0
+cheat gfi PrimalItem_WeaponPaintbrush 1 0 0
 ```
 
 Spray Painter allows you to spray multiple items quickly. Uses the same areas as displayed on the paintbrush screen.
@@ -21,7 +21,7 @@ Drag and drop paint on to the paintgun to load it, and then hold right click and
 coloured.
 
 ```
-cheat gfi spray 1 0 0
+cheat gfi PrimalItem_WeaponSprayPaint 1 0 0
 ```
 
 ## Colours
