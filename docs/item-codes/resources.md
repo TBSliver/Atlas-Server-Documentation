@@ -2,19 +2,20 @@
 
 ## Miscellaneous
 
-| Item            | Cheat Code                                                               |
-|-----------------|--------------------------------------------------------------------------|
-| Gold Coin       | `cheat gfi PrimalItemResource_GoldCoin 100 0 0`                          |
-| Mythos          | `cheat gfi PrimalItemResource_MagicMarrow 100 0 0`                       |
-| Salve           | `cheat gfi PrimalItemResource_Salve 100 0 0`                             |
-| Blasting Powder | `cheat gfi PrimalItemResource_BlastingPowder.uasset 100 0 0`             |
-| Fire Gel        | `cheat gfi PrimalItemResource_FireGel.uasset 100 0 0`                    |
-| Gunpowder       | `cheat gfi PrimalItemResource_Gunpowder.uasset 100 0 0`                  |
-| Powdered Coral  | `cheat gfi PrimalItemResource_OrganicPaste_PowderedCoral.uasset 100 0 0` |
-| Organic Paste   | `cheat gfi PrimalItemResource_OrganicPaste.uasset 100 0 0`               |
-| Preserving Salt | `cheat gfi PrimalItemResource_PreservingSalt.uasset 100 0 0`             |
-| Geode           | `cheat gfi PrimalItem_Geode 100 0 0`                                     |
-| Halloween Geode | `cheat gfi PrimalItem_HalloweenGeode 100 0 0`                            |
+| Item               | Cheat Code                                                        |
+|--------------------|-------------------------------------------------------------------|
+| Gold Coin          | `cheat gfi PrimalItemResource_GoldCoin 100 0 0`                   |
+| Mythos             | `cheat gfi PrimalItemResource_MagicMarrow 100 0 0`                |
+| Salve              | `cheat gfi PrimalItemResource_Salve 100 0 0`                      |
+| Blasting Powder    | `cheat gfi PrimalItemResource_BlastingPowder 100 0 0`             |
+| Fire Gel           | `cheat gfi PrimalItemResource_FireGel 100 0 0`                    |
+| Gunpowder          | `cheat gfi PrimalItemResource_Gunpowder 100 0 0`                  |
+| Powdered Coral     | `cheat gfi PrimalItemResource_OrganicPaste_PowderedCoral 100 0 0` |
+| Organic Paste      | `cheat gfi PrimalItemResource_OrganicPaste 100 0 0`               |
+| Preserving Salt    | `cheat gfi PrimalItemResource_PreservingSalt 100 0 0`             |
+| Geode              | `cheat gfi PrimalItem_Geode 100 0 0`                              |
+| Halloween Geode    | `cheat gfi PrimalItem_HalloweenGeode 100 0 0`                     |
+| Solidified Essence | `cheat gfi PrimalItemResource_Soldified_Essense 100 0 0`          |
 
 ## Coal
 
